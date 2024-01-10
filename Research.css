@@ -1,0 +1,32 @@
+body{
+  padding-bottom: 3em;
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(39,0,98,1) 41%, rgba(0,78,94,1) 100%);
+}
+#Navbar{
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(39,0,98,1) 41%, rgba(0,78,94,1) 100%);
+  border-bottom: double;
+
+}
+.navbar-brand{
+  border-bottom: double;
+}
+#Research{
+  text-align: center;
+  padding-top: 1.5em;
+  padding-bottom: 3em;
+  color: white;
+}
+.card{
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(39,0,98,1) 41%, rgba(0,78,94,1) 100%);
+
+}
+.card-title{
+  color: white;
+  text-align: center;
+  }
+
+.card-text{
+  color: white;
+  text-align: center;
+}
